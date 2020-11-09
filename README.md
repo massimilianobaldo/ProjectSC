@@ -1,5 +1,7 @@
 # Project for Scocial Computing
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/massimilianobaldo/ProjectSC/blob/main/main.ipynb)
+
 ## ToDo List:
 
 - [ ] Download followers (api.followers) and following users (api.friends) of these five accounts (numerical data may vary slightly):
