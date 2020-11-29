@@ -33,8 +33,6 @@ Nel dettaglio, si intende:
 
     - stima della “small-world-ness” del grafo
 
-- Calcolo delle correlazioni tra le variabili calcolate
-
 Per maggiori informazioni, consultare la relazione.
 
 ## Descrizione directory
