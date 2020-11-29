@@ -2,10 +2,10 @@
 
 ## Autori Progetto
 
-*   Emanuele Lena - 142411
-*   Ilaria Fenos - 142494
-*   Massimiliano Baldo - 142296
-*   Simone Dalla Pietà - 141995
+*   [Emanuele Lena](https://github.com/emanuelena49) - 142411
+*   [Ilaria Fenos](https://github.com/ilariaf) - 142494
+*   [Massimiliano Baldo](https://github.com/massimilianobaldo) - 142296
+*   [Simone Dalla Pietà](https://github.com/Simonedp) - 141995
 
 ## Descrizione Progetto
 
